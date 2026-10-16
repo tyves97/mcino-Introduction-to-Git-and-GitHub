@@ -1,0 +1,4 @@
+curl -s https://api.github.com/repos/tyves97/mcino-Introduction-to-Git-and-GitHub/pulls/1 | jq -r '.head.repo.clone_url'
+
+https://github.com/tyves97/mcino-Introduction-to-Git-and-GitHub.git
+``
