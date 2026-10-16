@@ -1,0 +1,5 @@
+git branch -vv
+
+* bug-fix-revert 54dbf39 [origin/bug-fix-revert] Add bug fix revert evidence
+  bug-fix-typo   2962af9 [origin/bug-fix-typo] Fix typo in README footer
+  main           00c191d [origin/main] Add merge branches evidence
